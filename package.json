@@ -1,7 +1,9 @@
 {
   "name": "react-default-file-content",
+  "publisher": "tilio",
   "displayName": "React default file content",
   "description": "Sets up a function component in newly created tsx files",
+  "repository": "https://github.com/TilioApp/react-default-file-content.git",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.37.0"
